@@ -22,7 +22,7 @@ Whichever testing approach you choose, the idea of the exercise is to do some de
 
 ### Gilded Rose Requirements in other languages 
 
-- [English](GildedRoseRequirements.txt)
+- [English](GildedRoseRequirements.md)
 - [Français](GildedRoseRequirements_fr.md)
 
 ## Text-Based Approval Testing
